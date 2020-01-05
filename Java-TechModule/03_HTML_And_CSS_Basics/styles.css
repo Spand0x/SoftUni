@@ -1,0 +1,52 @@
+div{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: white;
+    display: inline-block;
+    /* width: 30%;
+    margin-left:2%;
+    vertical-align: top; */
+    padding: 20px;
+    border: 3px solid yellow;
+    margin: 20px;
+}
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
+#purple{
+    background-color: purple;
+}
+#orange{
+    background-color: orange;
+}
+
+span{
+    font-weight: bold;
+}
+p{
+    color: darkviolet;
+}
+
+h1{
+    color: blue;
+}
+li{
+    border-style: solid;
+    border-color: yellow;
+}
+span{
+    border-style: dotted;
+    border-color: darkcyan;
+}
+
+h1{
+    text-align: center;
+}
