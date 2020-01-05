@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4666363-6a86-460e-94cc-3c6df6c7d9af" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="259" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UIIbO9BSsQavo81dHva8GJiE2z" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="p06_TirePressureMonitoringSystem" />
+      <recent name="p05_CustomLinkedList" />
+      <recent name="p03_IteratorTest" />
+      <recent name="p02_ExtendedDatabase" />
+      <recent name="p01_Database" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AlarmTest">
+    <configuration name="AlarmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.defaultAlarmShouldBeFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="METHOD_NAME" value="defaultAlarmShouldBeFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.shouldReturnTrueWhenPressureIsIsLessThanLowerThreshold" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="METHOD_NAME" value="shouldReturnTrueWhenPressureIsIsLessThanLowerThreshold" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p04_BubbleSortTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p04_BubbleSortTest" />
+      <option name="MAIN_CLASS_NAME" value="p04_BubbleSortTest.BubbleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p05_CustomLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p05_CustomLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="p05_CustomLinkedList.CustomLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlarmTest" />
+        <item itemvalue="JUnit.AlarmTest.defaultAlarmShouldBeFalse" />
+        <item itemvalue="JUnit.AlarmTest.shouldReturnTrueWhenPressureIsIsLessThanLowerThreshold" />
+        <item itemvalue="JUnit.CustomLinkedListTest" />
+        <item itemvalue="JUnit.BubbleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4666363-6a86-460e-94cc-3c6df6c7d9af" name="Default Changelist" comment="" />
+      <created>1575037752103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575037752103</updated>
+      <workItem from="1575037753506" duration="5586000" />
+      <workItem from="1575207686947" duration="7550000" />
+      <workItem from="1575218448484" duration="3482000" />
+      <workItem from="1575304498482" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionIfMoreThanSixteenIntegers.ic" NAME="DatabaseTest.shouldThrowExceptionIfMoreThanSixteenIntegers Coverage Results" MODIFIED="1575042538586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionIfTooBigDatabaseIsInit.ic" NAME="DatabaseTest.shouldThrowExceptionIfTooBigDatabaseIsInit Coverage Results" MODIFIED="1575209687009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$ListIteratorTest.ic" NAME="ListIteratorTest Coverage Results" MODIFIED="1575211237571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p03_IteratorTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest.ic" NAME="DatabaseTest Coverage Results" MODIFIED="1575043669751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$CustomLinkedListTest.ic" NAME="CustomLinkedListTest Coverage Results" MODIFIED="1575219629472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p05_CustomLinkedList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$ListIteratorTest_shouldReturnFalseWhenIndexIsAtTheLastElement.ic" NAME="ListIteratorTest.shouldReturnFalseWhenIndexIsAtTheLastElement Coverage Results" MODIFIED="1575211089671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p03_IteratorTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionWhenRemovingFromEmptyDatabase.ic" NAME="DatabaseTest.shouldThrowExceptionWhenRemovingFromEmptyDatabase Coverage Results" MODIFIED="1575043615584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionWhenAddingNull.ic" NAME="DatabaseTest.shouldThrowExceptionWhenAddingNull Coverage Results" MODIFIED="1575043262677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$ListIteratorTest_moveListIndex.ic" NAME="ListIteratorTest.moveListIndex Coverage Results" MODIFIED="1575210855483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p03_IteratorTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest__1_.ic" NAME="DatabaseTest (1) Coverage Results" MODIFIED="1575209696633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_databaseShouldBeEmptyAfterRemovingTheOnlyPerson.ic" NAME="DatabaseTest.databaseShouldBeEmptyAfterRemovingTheOnlyPerson Coverage Results" MODIFIED="1575208517639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionIfNullIDIsPresent.ic" NAME="DatabaseTest.shouldThrowExceptionIfNullIDIsPresent Coverage Results" MODIFIED="1575207998105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionIfSizeIsNot16Integers.ic" NAME="DatabaseTest.shouldThrowExceptionIfSizeIsNot16Integers Coverage Results" MODIFIED="1575038310305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/18_Exercises_UnitTesting$DatabaseTest_shouldThrowExceptionIfNegativeIDIsPresent.ic" NAME="DatabaseTest.shouldThrowExceptionIfNegativeIDIsPresent Coverage Results" MODIFIED="1575208130952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p02_ExtendedDatabase.*</FILTER>
+    </SUITE>
+  </component>
+</project>

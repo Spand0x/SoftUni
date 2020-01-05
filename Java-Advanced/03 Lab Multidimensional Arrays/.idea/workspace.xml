@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d699a85c-878e-46f5-94f1-a903bc148465" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RyWcDyRNaH6PAocxlvICTxJ6Ug" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FindTheRealQueen">
+    <configuration name="FindTheRealQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spand0x.FindTheRealQueen" />
+      <module name="03 Multidimensional Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spand0x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSumOf2x2SubMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spand0x.MaximumSumOf2x2SubMatrix" />
+      <module name="03 Multidimensional Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spand0x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintDiagonalsOfSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spand0x.PrintDiagonalsOfSquareMatrix" />
+      <module name="03 Multidimensional Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spand0x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spand0x.SumMatrixElements" />
+      <module name="03 Multidimensional Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spand0x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrongMeasurements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spand0x.WrongMeasurements" />
+      <module name="03 Multidimensional Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spand0x.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SumMatrixElements" />
+      <item itemvalue="Application.MaximumSumOf2x2SubMatrix" />
+      <item itemvalue="Application.PrintDiagonalsOfSquareMatrix" />
+      <item itemvalue="Application.WrongMeasurements" />
+      <item itemvalue="Application.FindTheRealQueen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindTheRealQueen" />
+        <item itemvalue="Application.WrongMeasurements" />
+        <item itemvalue="Application.PrintDiagonalsOfSquareMatrix" />
+        <item itemvalue="Application.MaximumSumOf2x2SubMatrix" />
+        <item itemvalue="Application.SumMatrixElements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d699a85c-878e-46f5-94f1-a903bc148465" name="Default Changelist" comment="" />
+      <created>1570639893696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570639893696</updated>
+      <workItem from="1570639896403" duration="18225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spand0x/IntersectionOfTwoMatrices.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spand0x/MaximumSumOf2x2SubMatrix.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spand0x/MaximumSumOf2x2SubMatrix.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spand0x/WrongMeasurements.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/spand0x/FindTheRealQueen.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="matrix" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/03_Multidimensional_Arrays$IntersectionOfTwoMatrices.ic" NAME="IntersectionOfTwoMatrices Coverage Results" MODIFIED="1570647047200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.spand0x.*</FILTER>
+    </SUITE>
+  </component>
+</project>
