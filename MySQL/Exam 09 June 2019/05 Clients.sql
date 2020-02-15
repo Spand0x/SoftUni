@@ -1,0 +1,4 @@
+USE bank;
+SELECT id, full_name
+FROM clients
+ORDER BY id;
